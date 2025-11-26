@@ -92,6 +92,9 @@ canvas{
   .header1 {
     font-size: 8vw;
   }
+  .header2 {
+    font-size: 3.5vw;
+  }
   .link1 {
     font-size: 4vw;
   }
@@ -114,6 +117,6 @@ canvas{
 
 @media screen and (min-width: 1390px) {
   .header2 {
-    font-size: 1.1vw;
+    font-size: 4vw;
   }
 }
