@@ -92,14 +92,9 @@ canvas{
   .header1 {
     font-size: 8vw;
   }
-  .header2 {
-    font-size: 3.5vw;
-  }
-  /*
   .link1 {
-    font-size: 10%;
+    font-size: 4vw;
   }
-  */
 }
 
 @media screen and (max-width: 765px) {
@@ -110,17 +105,15 @@ canvas{
     font-size: 9vw;
   }
   .header2 {
-    font-size: 4vw;
+    font-size: 2.5vw;
   }
-   /*
   .link1 {
-    font-size: 10%;
+    font-size: 5vw;
   }
-  */
 }
 
 @media screen and (min-width: 1390px) {
-  .link1 {
-    font-size: 2vw;
+  .header2 {
+    font-size: 1.1vw;
   }
 }
